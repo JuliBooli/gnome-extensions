@@ -1,0 +1,9 @@
+{
+  "name": "Current Playing Media",
+  "description": "Displays the currently Playing media.",
+  "uuid": "currentplayingmedia@github.com",
+  "url" : "https://github.com/JuliBooli/gnome-extensions",
+  "shell-version": [
+    "47"
+  ]
+}
